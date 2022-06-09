@@ -12,7 +12,9 @@
 
 ### Frontend
 
-Gatorfy's frontend is hosted using **Google's Firebase** platform, and uses Bootstrap and React to display it's home page. This is a single-page React proyect that introduces Gatorfy to the user, and provides a description of it's the current functionality and the option to try them out.
+Gatorfy's frontend is hosted using **Google's Firebase** platform, and uses **Bootstrap** and **React** to display it's home page. This is a single-page React proyect that introduces Gatorfy to the user, and provides a description of it's the current functionality and the option to try them out.
+
+![Home Page for Gatorfy](https://github.com/filixgator/Spotify_MonthlyWrapped/blob/main/Media/HomePage.PNG?raw=true "Home Page")
 
 The first time the user selects an option, they will be redirected to the Spotify log in page, for authentication and to authorize Gatorfy to request information from their Spotify profile.
 
